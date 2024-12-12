@@ -1,3 +1,36 @@
 2024-12-12 19:32:23.987 | INFO     | __main__:main:12 - 启动微信公众号文章采集工具
 2024-12-12 19:33:20.083 | INFO     | __main__:main:12 - 启动微信公众号文章采集工具
 2024-12-12 19:35:35.226 | INFO     | __main__:main:12 - 启动微信公众号文章采集工具
+2024-12-12 19:53:41.941 | INFO     | __main__:main:12 - 启动微信公众号文章采集工具
+2024-12-12 19:58:43.223 | INFO     | __main__:main:12 - 启动微信公众号文章采集工具
+2024-12-12 19:59:00.700 | INFO     | __main__:main:12 - 启动微信公众号文章采集工具
+2024-12-12 20:01:59.720 | INFO     | __main__:main:12 - 启动微信公众号文章采集工具
+2024-12-12 20:03:03.899 | INFO     | __main__:main:12 - 启动微信公众号文章采集工具
+2024-12-12 20:04:59.645 | INFO     | __main__:main:12 - 启动微信公众号文章采集工具
+2024-12-12 20:06:52.009 | INFO     | __main__:main:12 - 启动微信公众号文章采集工具
+2024-12-12 20:08:28.031 | INFO     | __main__:main:12 - 启动微信公众号文章采集工具
+2024-12-12 20:09:20.894 | INFO     | __main__:main:12 - 启动微信公众号文章采集工具
+2024-12-12 20:09:26.956 | DEBUG    | gui.account_widget:check_login_status:220 - 登录状态检查: 201
+2024-12-12 20:09:28.962 | DEBUG    | gui.account_widget:check_login_status:220 - 登录状态检查: 201
+2024-12-12 20:09:30.955 | DEBUG    | gui.account_widget:check_login_status:220 - 登录状态检查: 201
+2024-12-12 20:09:32.973 | DEBUG    | gui.account_widget:check_login_status:220 - 登录状态检查: 201
+2024-12-12 20:09:34.959 | DEBUG    | gui.account_widget:check_login_status:220 - 登录状态检查: 201
+2024-12-12 20:09:36.970 | DEBUG    | gui.account_widget:check_login_status:220 - 登录状态检查: 200
+2024-12-12 20:09:37.403 | INFO     | gui.account_widget:login_success:210 - 登录成功，界面已更新
+2024-12-12 20:12:19.460 | INFO     | __main__:main:12 - 启动微信公众号文章采集工具
+2024-12-12 20:12:26.431 | DEBUG    | gui.account_widget:check_login_status:222 - 登录状态检查: 201
+2024-12-12 20:12:28.451 | DEBUG    | gui.account_widget:check_login_status:222 - 登录状态检查: 201
+2024-12-12 20:12:30.446 | DEBUG    | gui.account_widget:check_login_status:222 - 登录状态检查: 201
+2024-12-12 20:12:32.448 | DEBUG    | gui.account_widget:check_login_status:222 - 登录状态检查: 201
+2024-12-12 20:12:34.446 | DEBUG    | gui.account_widget:check_login_status:222 - 登录状态检查: 201
+2024-12-12 20:12:36.422 | DEBUG    | gui.account_widget:check_login_status:222 - 登录状态检查: 200
+2024-12-12 20:12:36.825 | INFO     | gui.account_widget:login_success:212 - 登录成功，界面已更新
+2024-12-12 20:14:51.724 | INFO     | __main__:main:12 - 启动微信公众号文章采集工具
+2024-12-12 20:14:59.229 | DEBUG    | gui.account_widget:check_login_status:222 - 登录状态检查: 201
+2024-12-12 20:14:59.526 | DEBUG    | gui.account_widget:check_login_status:222 - 登录状态检查: 201
+2024-12-12 20:15:01.519 | DEBUG    | gui.account_widget:check_login_status:222 - 登录状态检查: 201
+2024-12-12 20:15:03.507 | DEBUG    | gui.account_widget:check_login_status:222 - 登录状态检查: 201
+2024-12-12 20:15:05.511 | DEBUG    | gui.account_widget:check_login_status:222 - 登录状态检查: 201
+2024-12-12 20:15:07.532 | DEBUG    | gui.account_widget:check_login_status:222 - 登录状态检查: 201
+2024-12-12 20:15:09.510 | DEBUG    | gui.account_widget:check_login_status:222 - 登录状态检查: 200
+2024-12-12 20:15:09.943 | INFO     | gui.account_widget:login_success:212 - 登录成功，界面已更新
